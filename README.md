@@ -1,2 +1,2 @@
 # CompetitiveProgramming
-CP templates, code snippets, etc.
+CP algorithms, templates ,functions, code snippets, etc.
