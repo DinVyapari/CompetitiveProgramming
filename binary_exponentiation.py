@@ -12,7 +12,7 @@ def binexmod(base, pow, mod):
     ans=1
     while pow>0:
         if pow&1:
-            ans*=base%mod
-        base*=base
+            ans=(ans*base)%mod
+        base=(base*base)%mod
         pow//=2
-    return ans
+    return ans%mod
