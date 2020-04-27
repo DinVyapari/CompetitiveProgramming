@@ -6,3 +6,13 @@ def binex(base, pow):
         base*=base
         pow//=2
     return ans
+
+def binexmod(base, pow, mod):
+    base%=mod
+    ans=1
+    while pow>0:
+        if pow&1:
+            ans*=base%mod
+        base*=base
+        pow//=2
+    return ans
