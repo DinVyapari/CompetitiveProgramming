@@ -1,1 +1,4 @@
+*TLE in Python and WA in C++ ==> Overflow
 
+*Python to C++:
+-list.append(x) => push_back
