@@ -1,4 +1,8 @@
-*TLE in Python and WA in C++ ==> Overflow
+•TLE in Python and WA in C++ ==> Overflow
 
-*Python to C++:
--list.append(x) => push_back
+•Python to C++:
+  •list.append(x) => list.push_back(x);
+  •bisect.bisect(list, x) => https://www.geeksforgeeks.org/binary-search-functions-in-c-stl-binary_search-lower_bound-and-upper_bound/
+  •
+  •
+  •
