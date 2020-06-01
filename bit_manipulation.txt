@@ -1,0 +1,9 @@
+if x&1:
+    //x is odd
+else:
+    //x is even
+=================
+XOR Magic!
+if bitwise XOR is taken of x numbers, is appended to a list containing those numbers, any element of the list can be obtained 
+by taking XOR of all other elements! (This is how RAID-5 works.)
+=================
