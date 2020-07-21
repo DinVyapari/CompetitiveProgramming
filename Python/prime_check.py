@@ -1,4 +1,4 @@
-def isPrime(n) : 
+def prime_check(n) : 
     if (n <= 1) : 
         return False
     if (n <= 3) : 
