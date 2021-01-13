@@ -27,7 +27,6 @@ time.localtime(seconds) gives local time tuple
 time.ctime(seconds) gives local time formatted
 time.asctime(time.gmtime(seconds)) gives GMT time formatted
 ============================================================
-print('Python is\r123456') why not 123456 is
 stringname.isnumeric() will return True or False
 round=(int(avg*100))/100 #truncates to two decimal points
 n[::-1] reverses string n
